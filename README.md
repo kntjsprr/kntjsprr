@@ -1,8 +1,9 @@
 <h3 align="left">Hello! </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kntjsprr&label=Profile%20views&color=0e75b6&style=flat" alt="kntjsprr" /> </p>
 
-
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kntjsprr&repo=Minimal-Proton)](https://github.com/kntjsprr/Minimal-Proton)--> 
+<!--- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)--> 
 ![Snake animation](https://github.com/kntjsprr/kntjsprr/blob/output/github-contribution-grid-snake.svg)
+
 
 
 - 💬 Ask me about **C#**
@@ -14,7 +15,10 @@
 
 <p align="left"> <a href="https://twitter.com/knt_jspr" target="blank"><img src="https://img.shields.io/twitter/follow/knt_jspr?logo=twitter&style=for-the-badge" alt="knt_jspr" /></a> </p>
 
-![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kntjsprr&count_private=true&theme=tokyonight&show_icons=true
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kntjsprr&label=Profile%20views&color=0e75b6&style=flat" alt="kntjsprr" /> </p>
+
+
+![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kntjsprr&count_private=true&theme=tokyonight&show_icons=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
