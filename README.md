@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kntjsprr&show_icons=true&locale=en" alt="kntjsprr" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kntjsprr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
