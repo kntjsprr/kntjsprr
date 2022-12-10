@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me **kntjspr@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 
